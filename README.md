@@ -54,6 +54,13 @@ space-portfolio/
     |-- icon2.png
     |-- layout.tsx
     |-- page.tsx
+  |- certificates/
+    |-- deloitte.pdf
+    |-- hackerrank.pdf
+    |-- oracle.jpg
+    |-- saiket_certificate.jpg
+    |-- skillcraft_certificate.jpg
+    |-- tata.pdf
   |- components/
     |-- main/
     |-- sub/
@@ -61,18 +68,26 @@ space-portfolio/
     |-- index.ts
   |- constants/
     |-- index.ts
+  |- images/
+    |-- dummy.txt
+    |-- myimg.jpg
   |- lib/
     |-- motion.ts
     |-- utils.ts
   |- public/
   |- .eslintrc.json
   |- .gitignore
+  |- cv.pdf
   |- eslint.config.mjs
+  |- index.html
+  |- music-playlist.jpg
   |- netlify.toml
   |- next.config.js
   |- package-lock.json
   |- package.json
   |- postcss.config.js
+  |- smart-tourism.jpg
+  |- style.css
   |- tailwind.config.ts
   |- tsconfig.json
 ```
