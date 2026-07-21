@@ -76,9 +76,21 @@ export const Achievements = () => {
               <div className="text-3xl mb-3">📜</div>
               <h3 className="text-white font-semibold text-[18px] mb-2">Certifications & Assessment</h3>
               <ul className="text-gray-400 text-[14px] leading-[1.7] mb-4 space-y-2 list-disc ml-4">
-                <li><strong className="text-white">Software Engineer Intern</strong> - HackerRank</li>
-                <li><strong className="text-white">Problem Solving (Intermediate)</strong> - HackerRank</li>
-                <li><strong className="text-white">REST API (Intermediate)</strong> - HackerRank</li>
+                <li>
+                  <a href="https://drive.google.com/file/d/1krSeBMpwaKSBzsDqJ5Pg_XgKgfWzfj99/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="hover:text-[#b49bff] hover:underline transition-all">
+                    <strong className="text-white">Software Engineer Intern</strong> - HackerRank
+                  </a>
+                </li>
+                <li>
+                  <a href="https://drive.google.com/file/d/1hLCX7-e5dNULseyl9iHOD1JZ11d9g7a2/view" target="_blank" rel="noopener noreferrer" className="hover:text-[#b49bff] hover:underline transition-all">
+                    <strong className="text-white">Problem Solving (Intermediate)</strong> - HackerRank
+                  </a>
+                </li>
+                <li>
+                  <a href="https://drive.google.com/file/d/1STCOEzLYrntHFC6PL3wInPHLkM3yKTNB/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="hover:text-[#b49bff] hover:underline transition-all">
+                    <strong className="text-white">REST API (Intermediate)</strong> - HackerRank
+                  </a>
+                </li>
                 <li><strong className="text-white">Oracle Data Platform Certified Foundations Associate</strong></li>
               </ul>
               <div className="text-[12px] text-gray-500 font-medium tracking-wide border-t border-[#2A0E61] pt-3 mt-auto">

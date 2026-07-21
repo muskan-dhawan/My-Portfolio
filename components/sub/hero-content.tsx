@@ -32,12 +32,21 @@ export const HeroContent = () => {
           variants={slideInFromLeft(0.5)}
           className="flex flex-col gap-6 mt-6 text-6xl text-bold text-white max-w-[600px] w-auto h-auto"
         >
-          <span>
-            Muskan{" "}
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-              Dhawan
+          <div className="flex items-center gap-6">
+            <Image
+              src="https://github.com/muskan-dhawan.png"
+              alt="Profile Picture"
+              width={100}
+              height={100}
+              className="rounded-full border-2 border-[#7042f8] shadow-[0_0_20px_rgba(112,66,248,0.5)] object-cover"
+            />
+            <span>
+              Muskan{" "}
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
+                Dhawan
+              </span>
             </span>
-          </span>
+          </div>
         </motion.div>
 
         <motion.p

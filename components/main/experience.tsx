@@ -50,6 +50,11 @@ export const Experience = () => {
               <li>Implemented and evaluated regression, clustering, classification, and CNN-based models, including real-time hand gesture recognition, using appropriate performance metrics.</li>
               <li>Enhanced skills in Python and ML libraries, gaining hands-on experience with real-world datasets and end-to-end ML workflows.</li>
             </ul>
+            <div className="mt-5">
+              <a href="https://drive.google.com/file/d/1ikU4ZKSfmTK09kL-oNRGSFIXwvGG6r8h/view" target="_blank" rel="noopener noreferrer" className="inline-block py-2 px-4 rounded-lg bg-[#2A0E61] hover:bg-[#7042f8] text-white text-sm font-medium transition-all duration-300">
+                View Certificate
+              </a>
+            </div>
           </motion.div>
 
           {/* Experience 2 */}
@@ -69,6 +74,11 @@ export const Experience = () => {
               <li>Contributed to developing and optimizing predictive ML models through analytical discussions, applying algorithms, and evaluating performance using Accuracy, Precision, Recall, F1 Score, and ROC-AUC.</li>
               <li>Strengthened problem-solving, model interpretability, and adaptability to real-world AI challenges.</li>
             </ul>
+            <div className="mt-5">
+              <a href="https://drive.google.com/file/d/1uIidv5DdKZtn-PgvWqtx2AtAMmgpzlVj/view" target="_blank" rel="noopener noreferrer" className="inline-block py-2 px-4 rounded-lg bg-[#2A0E61] hover:bg-[#7042f8] text-white text-sm font-medium transition-all duration-300">
+                View Certificate
+              </a>
+            </div>
           </motion.div>
 
           {/* Training */}
@@ -88,6 +98,11 @@ export const Experience = () => {
               <li>Learned backend development in C++, including REST API handling, file persistence, JSON processing, and concurrency using mutexes.</li>
               <li>Improved understanding of full-stack integration, API design, problem-solving, and version control using Git and GitHub.</li>
             </ul>
+            <div className="mt-5">
+              <a href="https://drive.google.com/file/d/1VE508G6zLpMzVBBHlXtiwrPPvPfR2jil/view" target="_blank" rel="noopener noreferrer" className="inline-block py-2 px-4 rounded-lg bg-[#2A0E61] hover:bg-[#7042f8] text-white text-sm font-medium transition-all duration-300">
+                View Certificate
+              </a>
+            </div>
           </motion.div>
         </div>
       </div>
