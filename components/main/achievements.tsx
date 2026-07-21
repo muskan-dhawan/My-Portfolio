@@ -99,6 +99,26 @@ export const Achievements = () => {
             </div>
           </motion.div>
 
+          {/* Hackathon Card */}
+          <motion.div
+            variants={slideInFromLeft(0.8)}
+            initial="hidden"
+            whileInView="visible"
+            viewport={{ once: true }}
+            className="relative group md:col-span-2"
+          >
+            <div className="h-full bg-[rgba(3,0,20,0.6)] border border-[#2A0E61] rounded-xl p-6 hover:border-[#7042f8] transition-all duration-300 hover:shadow-[0_0_30px_rgba(112,66,248,0.15)] hover:-translate-y-1">
+              <div className="text-3xl mb-3">🏆</div>
+              <h3 className="text-white font-semibold text-[18px] mb-2">Build-a-Thon Hackathon</h3>
+              <p className="text-gray-400 text-[14px] leading-[1.7] mb-4">
+                Built a project at the Build-a-Thon Hackathon | APNA College x LPU Board Infinity | <strong className="text-white">Apr 2024</strong>
+              </p>
+              <div className="text-[12px] text-gray-500 font-medium tracking-wide border-t border-[#2A0E61] pt-3 mt-auto">
+                Hackathon Participation
+              </div>
+            </div>
+          </motion.div>
+
         </div>
       </div>
     </section>
