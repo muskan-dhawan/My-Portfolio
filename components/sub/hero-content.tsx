@@ -32,21 +32,12 @@ export const HeroContent = () => {
           variants={slideInFromLeft(0.5)}
           className="flex flex-col gap-6 mt-6 text-6xl text-bold text-white max-w-[600px] w-auto h-auto"
         >
-          <div className="flex items-center gap-6">
-            <Image
-              src="https://github.com/muskan-dhawan.png"
-              alt="Profile Picture"
-              width={100}
-              height={100}
-              className="rounded-full border-2 border-[#7042f8] shadow-[0_0_20px_rgba(112,66,248,0.5)] object-cover"
-            />
-            <span>
-              Muskan{" "}
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-                Dhawan
-              </span>
+          <span>
+            Muskan{" "}
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
+              Dhawan
             </span>
-          </div>
+          </span>
         </motion.div>
 
         <motion.p
@@ -83,14 +74,16 @@ export const HeroContent = () => {
         variants={slideInFromRight(0.8)}
         className="w-full h-full flex justify-center items-center"
       >
-        <Image
-          src="/hero-bg.svg"
-          alt="work icons"
-          height={650}
-          width={650}
-          draggable={false}
-          className="select-none"
-        />
+        <div className="relative rounded-full p-[4px] bg-gradient-to-r from-cyan-500 to-purple-500 shadow-[0_0_40px_rgba(112,66,248,0.5)]">
+          <Image
+            src="https://github.com/muskan-dhawan.png"
+            alt="Profile Picture"
+            height={400}
+            width={400}
+            draggable={false}
+            className="rounded-full object-cover select-none bg-[#030014] aspect-square"
+          />
+        </div>
       </motion.div>
     </motion.div>
   );

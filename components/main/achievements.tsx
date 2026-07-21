@@ -77,21 +77,25 @@ export const Achievements = () => {
               <h3 className="text-white font-semibold text-[18px] mb-2">Certifications & Assessment</h3>
               <ul className="text-gray-400 text-[14px] leading-[1.7] mb-4 space-y-2 list-disc ml-4">
                 <li>
-                  <a href="https://drive.google.com/file/d/1krSeBMpwaKSBzsDqJ5Pg_XgKgfWzfj99/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="hover:text-[#b49bff] hover:underline transition-all">
+                  <a href="https://drive.google.com/file/d/1h3Wx7uWCrxIQi8AOF8UCgYW1GWuwpSIM/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="hover:text-[#b49bff] hover:underline transition-all">
                     <strong className="text-white">Software Engineer Intern</strong> - HackerRank
                   </a>
                 </li>
                 <li>
-                  <a href="https://drive.google.com/file/d/1hLCX7-e5dNULseyl9iHOD1JZ11d9g7a2/view" target="_blank" rel="noopener noreferrer" className="hover:text-[#b49bff] hover:underline transition-all">
+                  <a href="https://drive.google.com/file/d/1STCOEzLYrntHFC6PL3wInPHLkM3yKTNB/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="hover:text-[#b49bff] hover:underline transition-all">
                     <strong className="text-white">Problem Solving (Intermediate)</strong> - HackerRank
                   </a>
                 </li>
                 <li>
-                  <a href="https://drive.google.com/file/d/1STCOEzLYrntHFC6PL3wInPHLkM3yKTNB/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="hover:text-[#b49bff] hover:underline transition-all">
+                  <a href="https://drive.google.com/file/d/1lSh2k7LPYuFvMOmrszC173ljHNJGzIZJ/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="hover:text-[#b49bff] hover:underline transition-all">
                     <strong className="text-white">REST API (Intermediate)</strong> - HackerRank
                   </a>
                 </li>
-                <li><strong className="text-white">Oracle Data Platform Certified Foundations Associate</strong></li>
+                <li>
+                  <a href="https://drive.google.com/file/d/1hLCX7-e5dNULseyl9iHOD1JZ11d9g7a2/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="hover:text-[#b49bff] hover:underline transition-all">
+                    <strong className="text-white">Oracle Data Platform Certified Foundations Associate</strong>
+                  </a>
+                </li>
               </ul>
               <div className="text-[12px] text-gray-500 font-medium tracking-wide border-t border-[#2A0E61] pt-3 mt-auto">
                 Verified Skills & Knowledge
@@ -113,6 +117,9 @@ export const Achievements = () => {
               <p className="text-gray-400 text-[14px] leading-[1.7] mb-4">
                 Built a project at the Build-a-Thon Hackathon | APNA College x LPU Board Infinity | <strong className="text-white">Apr 2024</strong>
               </p>
+              <a href="https://drive.google.com/file/d/1xiNVjC8q_fHc1hCHJCuOFTDsU0xrPHaa/view" target="_blank" rel="noopener noreferrer" className="inline-block py-2 px-4 rounded-lg bg-[#2A0E61] hover:bg-[#7042f8] text-white text-[13px] font-medium transition-all duration-300 mb-4">
+                View Certificate
+              </a>
               <div className="text-[12px] text-gray-500 font-medium tracking-wide border-t border-[#2A0E61] pt-3 mt-auto">
                 Hackathon Participation
               </div>
