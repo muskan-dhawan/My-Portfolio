@@ -51,7 +51,7 @@ export const Experience = () => {
               <li>Enhanced skills in Python and ML libraries, gaining hands-on experience with real-world datasets and end-to-end ML workflows.</li>
             </ul>
             <div className="mt-5">
-              <a href="https://drive.google.com/file/d/1ikU4ZKSfmTK09kL-oNRGSFIXwvGG6r8h/view" target="_blank" rel="noopener noreferrer" className="inline-block py-2 px-4 rounded-lg bg-[#2A0E61] hover:bg-[#7042f8] text-white text-sm font-medium transition-all duration-300">
+              <a href="https://drive.google.com/file/d/1VE508G6zLpMzVBBHlXtiwrPPvPfR2jil/view" target="_blank" rel="noopener noreferrer" className="inline-block py-2 px-4 rounded-lg bg-[#2A0E61] hover:bg-[#7042f8] text-white text-sm font-medium transition-all duration-300">
                 View Certificate
               </a>
             </div>
@@ -99,7 +99,7 @@ export const Experience = () => {
               <li>Improved understanding of full-stack integration, API design, problem-solving, and version control using Git and GitHub.</li>
             </ul>
             <div className="mt-5">
-              <a href="https://drive.google.com/file/d/1VE508G6zLpMzVBBHlXtiwrPPvPfR2jil/view" target="_blank" rel="noopener noreferrer" className="inline-block py-2 px-4 rounded-lg bg-[#2A0E61] hover:bg-[#7042f8] text-white text-sm font-medium transition-all duration-300">
+              <a href="https://drive.google.com/file/d/1ikU4ZKSfmTK09kL-oNRGSFIXwvGG6r8h/view" target="_blank" rel="noopener noreferrer" className="inline-block py-2 px-4 rounded-lg bg-[#2A0E61] hover:bg-[#7042f8] text-white text-sm font-medium transition-all duration-300">
                 View Certificate
               </a>
             </div>
